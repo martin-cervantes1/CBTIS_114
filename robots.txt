@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /includes/
+Disallow: /js/
+Disallow: /css/
+
+Sitemap: https://cbtis114.edu.mx/sitemap.xml
