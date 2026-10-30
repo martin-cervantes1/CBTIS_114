@@ -1,0 +1,4 @@
+---
+deployment:
+  tasks:
+    - /bin/echo "Despliegue de CBTIS_114 completado"
